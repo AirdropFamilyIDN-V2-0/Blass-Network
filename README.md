@@ -6,7 +6,7 @@ Register Airdrop : https://t.me/AirdropFamilyIDN/6442
 # How To Run
 
 ```
-git clone
+git clone https://github.com/AirdropFamilyIDN-V2-0/Blass-Network.git
 ```
 ```
 cd Blass-network
